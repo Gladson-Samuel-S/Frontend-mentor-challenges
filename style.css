@@ -34,6 +34,7 @@ img {
     background-image: url(images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: 400px 0px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
     /* margin-left: 2rem; */
 }
 
@@ -75,6 +76,7 @@ img {
     justify-content: center;
     padding-left: 2rem;
     padding-right: 2rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
 .card3 {
@@ -85,6 +87,7 @@ img {
     justify-content: center;
     padding-left: 2rem;
     padding-right: 2rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
 .card4 {
@@ -97,6 +100,7 @@ img {
     justify-content: center;
     padding-left: 2rem;
     padding-right: 2rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
 .card5 {
@@ -110,6 +114,7 @@ img {
     justify-content: center;
     padding-left: 2rem;
     padding-right: 2rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
 @media only screen and (max-width: 550px) {
